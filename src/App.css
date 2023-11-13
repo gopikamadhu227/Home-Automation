@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.HomePage {
+  width: 1728px;
+  height: 1117px;
+  position: relative;
+  background: linear-gradient(180deg, #223781 0%, rgba(34, 55, 129, 0) 100%);
+}
+
+.HelloMaria {
+  left: 233px;
+  top: 98px;
+  position: absolute;
+  color: white;
+  font-size: 96px;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.YourHomeIsLocked {
+  left: 236px;
+  top: 214px;
+  position: absolute;
+  color: #597193;
+  font-size: 48px;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+/* Add styles for other classes (Rectangle8, Rectangle11, Ellipse8, etc.) */
+
+.SecureManageThrive {
+  left: 125px;
+  top: 614px;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Rectangle37 {
+  width: 344px;
+  height: 57px;
+  left: 125px;
+  top: 932px;
+  position: absolute;
+  background: #FF9924;
+  border-radius: 20px;
+}
+
+.ManageSecurity {
+  left: 161px;
+  top: 940px;
+  position: absolute;
+  color: #534100;
+  font-size: 32px;
+  font-weight: 600;
+  word-wrap: break-word;
+}
